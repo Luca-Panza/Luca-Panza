@@ -5,7 +5,7 @@
 <li> 🎓 I'm in the final stages of my Electrical Engineering - Robotics and Industrial Automation degree at UFJF.
 <li> 💻 Currently, I'm studying to become a full-stack web developer at Driven Education.
 <li> 🌱 I’m currently learning Phyton, C# and Angular.
-<li> 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/luca-rodrigues-panza/).
+<li> 📫 You can reach me on <a href="https://www.linkedin.com/in/luca-rodrigues-panza/" target="_blank">LinkedIn</a>.
   
 ### 👨‍💻 **Technologies**
 
