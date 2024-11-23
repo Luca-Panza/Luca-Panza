@@ -2,9 +2,8 @@
 
 ###  🙋‍♂️ **About Me**
 <li> 💡 I enjoy exploring new technologies and solving problems through coding.
-<li> 🎓 I'm in the final stages of my Electrical Engineering - Robotics and Industrial Automation degree at UFJF.
-<li> 💻 I have recently completed my full-stack web development program at Driven Education.
-<li> 🌱 I’m currently learning Phyton and C++.
+<li> 🎓 I'm pursuing a degree in Computer Science at UFJF.
+<li> 🌱 I’m currently learning Java and C++.
 <li> 📫 You can reach me on <a href="https://www.linkedin.com/in/luca-rodrigues-panza/" target="_blank">LinkedIn</a>.
   
 ### 👨‍💻 **Technologies**
@@ -32,6 +31,7 @@
 ![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPM Badge](https://img.shields.io/badge/NPM-FFF?style=for-the-badge&logo=npm)
 ![VS Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
